@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamSanskar
 - 👀 I’m interested in coding and research 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Data Analytics and Data Training 
 - 📫 How to reach me ...
 
 <!---
